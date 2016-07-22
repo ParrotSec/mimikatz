@@ -1,0 +1,83 @@
+mimikatz (2.1.0~alpha-20160720-0parrot0) testing; urgency=medium
+
+  * Import into Parrot
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@parrotsec.org>  Fri, 22 Jul 2016 17:07:14 +0200
+
+mimikatz (2.1.0~alpha-20160720-0kali1) kali-dev; urgency=medium
+
+  * Import new upstream release
+
+ -- Sophie Brun <sophie@freexian.com>  Thu, 21 Jul 2016 09:30:24 +0200
+
+mimikatz (2.1.0~alpha-20160625.1-0kali1) kali-dev; urgency=medium
+
+  * Import new upstream release
+
+ -- Sophie Brun <sophie@freexian.com>  Tue, 28 Jun 2016 11:54:28 +0200
+
+mimikatz (2.1.0~alpha-20160606.1-0kali1) kali-dev; urgency=medium
+
+  * Import new upstream release
+
+ -- Sophie Brun <sophie@freexian.com>  Mon, 06 Jun 2016 10:22:25 +0200
+
+mimikatz (2.1.0~alpha-20160522-0kali1) kali-dev; urgency=medium
+
+  * Import new upstream release
+
+ -- Sophie Brun <sophie@freexian.com>  Tue, 24 May 2016 16:00:44 +0200
+
+mimikatz (2.1.0~alpha-20160501-0kali1) kali-dev; urgency=medium
+
+  * Import new upstream release
+
+ -- Sophie Brun <sophie@freexian.com>  Mon, 02 May 2016 11:35:31 +0200
+
+mimikatz (2.1.0~alpha-20160327-0kali1) kali-dev; urgency=medium
+
+  * Import new upstream release
+
+ -- Sophie Brun <sophie@freexian.com>  Tue, 29 Mar 2016 09:30:14 +0200
+
+mimikatz (2.1.0~alpha-20160229-0kali1) kali-dev; urgency=medium
+
+  * Import new upstream release
+
+ -- Sophie Brun <sophie@freexian.com>  Mon, 29 Feb 2016 14:17:36 +0100
+
+mimikatz (2.1.0~alpha-20160131-0kali1) kali-dev; urgency=medium
+
+  * Import new upstream release
+
+ -- Sophie Brun <sophie@freexian.com>  Mon, 01 Feb 2016 10:04:10 +0100
+
+mimikatz (2.0.0~alpha-20160106-0kali1) kali-dev; urgency=medium
+
+  * Import new upstream release
+
+ -- Sophie Brun <sophie@freexian.com>  Thu, 07 Jan 2016 11:25:41 +0100
+
+mimikatz (2.0.0~alpha-20151005-0kali1) kali-dev; urgency=medium
+
+  * Import new upstream release
+
+ -- Sophie Brun <sophie@freexian.com>  Mon, 05 Oct 2015 11:11:03 +0200
+
+mimikatz (2.0.0~alpha-20150715-0kali1) kali-dev; urgency=medium
+
+  * Import new upstream release
+
+ -- Sophie Brun <sophie@freexian.com>  Wed, 15 Jul 2015 16:24:04 +0200
+
+mimikatz (1.0-rc-1kali1) kali-dev; urgency=medium
+
+  * Add a debian/watch
+
+ -- Sophie Brun <sophie@freexian.com>  Fri, 10 Jul 2015 16:41:35 +0200
+
+mimikatz (1.0-rc-1kali0) kali; urgency=low
+
+  * Initial release (Closes: #0000111)  
+
+ -- Devon Kearns <dookie@kali.org>  Mon, 29 Apr 2013 13:12:33 -0600
