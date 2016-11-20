@@ -1,3 +1,0 @@
-version=3
-opts="uversionmangle=s/[-+.](alpha|beta|rc)/~$1/,filenamemangle=s/(?:.*\/)?([^\/]*)\/mimikatz_trunk\.zip/mimikatz-$1.zip/" \
-https://github.com/gentilkiwi/mimikatz/releases (?:.*/)?(\d.*)/mimikatz_trunk\.zip
