@@ -1,3 +1,9 @@
+mimikatz (2.2.0-20200229-1parrot1) rolling-testing; urgency=medium
+
+  * Import new Upstream version.
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@parrotsec.org>  Mon, 02 Mar 2020 19:10:45 +0100
+
 mimikatz (2.1.0-20161029-1parrot0) testing; urgency=medium
 
   * New upstream version 2.1.0-20161029
