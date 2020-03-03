@@ -1,3 +1,9 @@
+mimikatz (1:2.2.0-20200229-1parrot2) rolling-testing; urgency=medium
+
+  * Rebuild package.
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@parrotsec.org>  Tue, 03 Mar 2020 02:00:12 +0100
+
 mimikatz (2.2.0-20200229-1parrot1) rolling-testing; urgency=medium
 
   * Import new Upstream version.
